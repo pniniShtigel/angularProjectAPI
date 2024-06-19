@@ -1,0 +1,66 @@
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\aaa.exe
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\aaa.deps.json
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\aaa.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\aaa.dll
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\aaa.pdb
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\staticwebassets\msbuild.aaa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\staticwebassets\msbuild.build.aaa.props
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.aaa.props
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.aaa.props
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\scopedcss\bundle\aaa.styles.css
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.dll
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\refint\aaa.dll
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.pdb
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\aaa.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות\angular\aaa\aaa\obj\Debug\net7.0\ref\aaa.dll
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\aaa.exe
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\aaa.deps.json
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\aaa.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\aaa.dll
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\aaa.pdb
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\staticwebassets\msbuild.aaa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\staticwebassets\msbuild.build.aaa.props
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.aaa.props
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.aaa.props
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\scopedcss\bundle\aaa.styles.css
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.dll
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\refint\aaa.dll
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.pdb
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\aaa.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות\angular\פרויקט אנגולר סופי פלוס מצגת\progect\api\aaa\obj\Debug\net7.0\ref\aaa.dll
